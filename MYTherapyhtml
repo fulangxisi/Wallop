@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY Therapy</title>
+</head>
+<!--Comment-->
+<body>
+ div>
+<h1>MY Therapy</h1>
+<p>A perspnalized approach to your preventitive health</p>
+<p>Founded in 2017 <strong>MY Therapy</strong> was the brainchild of Katherine Short, a RMT and athlete from the Sunshine Coast
+wanted to provied to her clients the same proprietary recovery techniques that she was privy to during her days as a racer.</p>
+<h2>Our Priorites</h2>
+<ol>
+   <li>Best practises</li>
+   <li>streching</li>
+ </ol>
+ <ul>
+    <li>homecare</li>
+    </ul>
+ 
+  <a href="http://www.google.ca">Click here to find us</a>
+<a href="page2.html">
+
+</a>
+</div> 
+<table border="1">
+  <th>Words</th>
+  <th>answer</th>
+ <tr>
+  <td>hey</td>
+    <td>how</td>
+  </tr>
+ </table> 
+
+</body>
+</html>
